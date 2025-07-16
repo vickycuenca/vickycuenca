@@ -4,7 +4,7 @@
 
 ---
   
-- 🔭 I'm currently working on personal projects 
+- 🔭 I'm currently working on personal projects
   
 - 👯 I’m looking for a job to develop my knowledge and gain experience!  
   
