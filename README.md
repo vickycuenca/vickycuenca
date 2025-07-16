@@ -4,12 +4,12 @@
 
 ---
   
-- 🔭 I'm currently working on personal projects and looking for a job to develop my knowledge and gain experience!
+- 🔭 I'm currently working on personal projects 
+  
+- 👯 I’m looking for a job to develop my knowledge and gain experience!  
   
 - 🌱 I'm also consolidating my knowledge in **JavaScript, HMTL5, CSS3 and PHP**
-  
-- 👯 I’m looking to collaborate on **Front-end projects**
-  
+   
 - 📫 How to reach me: **cuenca.carrascosa@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, hiking and maintaining an active lifestyle**
