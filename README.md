@@ -4,9 +4,9 @@
 
 ---
   
-- 🔭 I’m currently working on my **FCT Web Application Developer**
+- 🔭 I'm currently working on personal projects and looking for a job to develop my knowledge and gain experience!
   
-- 🌱 I’m currently learning **JavaScript, HMTL5, CSS3, PHP**
+- 🌱 I'm also consolidating my knowledge in **JavaScript, HMTL5, CSS3 and PHP**
   
 - 👯 I’m looking to collaborate on **Front-end projects**
   
